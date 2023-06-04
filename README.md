@@ -25,4 +25,4 @@ logg:       the surface gravity of the host star
 
 Stmass:     the mass of the host star, in the unit of solar-mass
 
-Flag:       Planets detected by different missions are flagged as ``Kepler'', ``K2'', ``TESS'', and ``other''. Here, ``other'' means sources detected by other facilities, e.g. CoRoT \citep{2009A&A...506..287L} and ground-based telescopes. 
+Flag:       Planets detected by different missions are flagged as "Kepler", "K2", "TESS", and "other". Here, "other" means sources detected by other facilities, e.g. CoRoT and ground-based telescopes. 
