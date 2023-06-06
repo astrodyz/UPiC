@@ -1,7 +1,7 @@
 # UPiC
 Understanding the Planetary Formation and Evolution in Star Clusters
 
-Please cite the following paper if you use our catalog. 
+Please cite the following paper if you use our catalog. https://arxiv.org/abs/2306.02610
 
 The meanings of each column.
 
